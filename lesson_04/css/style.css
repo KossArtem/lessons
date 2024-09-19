@@ -66,7 +66,7 @@ p {
 
 .subtitle {
   color: #132238;
-  font-family: "Work Sans";
+  font-family: "Work Sans", sans-serif;
   font-size: 38px;
   font-weight: 600;
   line-height: 1.31;
@@ -74,7 +74,7 @@ p {
 
 .subtitle-text {
   color: #556070;
-  font-family: "Work Sans";
+  font-family: "Work Sans", sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 1.33;
@@ -84,14 +84,14 @@ p {
 
 .about-title {
   color: #1e1b39;
-  font-family: "DM Sans";
+  font-family: "DM Sans", sans-serif;
   font-size: 88px;
   font-weight: 700;
   line-height: 1.079;
 }
 .about-text {
   color: #474464;
-  font-family: "DM Sans";
+  font-family: "DM Sans", sans-serif;
   font-size: 24px;
   font-weight: 400;
   line-height: 1.75;
@@ -101,7 +101,7 @@ p {
 
 .subject {
   color: #091133;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-size: 50px;
   font-weight: 500;
   line-height: 1.32;
@@ -110,7 +110,7 @@ p {
 
 .subject-text {
   color: #505f98;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 1.66;
