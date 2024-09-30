@@ -97,6 +97,7 @@ h2 {
   font-weight: 400;
   line-height: 1.66;
   max-height: 164px;
+  margin-bottom: 69px;
 }
 
 .block-text-lead {
@@ -122,7 +123,7 @@ h2 {
   color: #091133;
   background: #fff;
   border: 2px solid #091133;
-  margin-top: 69px;
+  /* margin-top: 69px; */
 }
 
 /* ================================================== */
@@ -170,6 +171,10 @@ h2 {
   margin-bottom: 14px;
 }
 
+.features-svg {
+  max-width: 36px;
+}
+
 .features-title {
   color: #091133;
   max-width: 245px;
@@ -192,8 +197,13 @@ h2 {
 .section-cards {
   background-color: #141414;
   font-family: "Manrope", sans-serif;
-  max-width: 1597px;
+
   overflow: hidden;
+}
+
+.cards-container {
+  max-width: 1597px;
+  margin: o auto;
 }
 
 .cards-subtitle {
@@ -264,6 +274,7 @@ h2 {
   line-height: 1.5;
   /* 36px/24 */
   display: inline-block;
+  vertical-align: middle;
 }
 
 /* ================================================== */
